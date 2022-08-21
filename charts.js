@@ -96,6 +96,11 @@ function buildCharts(sample) {
           text: otu_labels.slice(0, 10).reverse(),
           type: "bar",
           orientation: "h",
+          marker:{
+            color: ['#ebe134', '#c3eb34', '#34ebde', '#34cfeb', '#34abeb','#345eeb', 
+              '#8634eb', '#b434eb', '#eb34e8', '#eb3486']
+          },
+          
         } 
     ];
     // 9. Create the layout for the bar chart. 
