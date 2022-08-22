@@ -28,7 +28,7 @@ Many bacteria species are not well studied and many more are unknown. We are tas
 
 # Results
 
-Published page can be access by clicking [here](). 
+Published page can be access by clicking [here](https://munno88.github.io/BellyButtonBiodiversity-plotly/). 
 
 ***Tip: Best viewed on a desktop as the page has not been optimized to be mobile responsive.***
 
